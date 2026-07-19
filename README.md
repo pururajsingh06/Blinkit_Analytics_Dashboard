@@ -16,6 +16,23 @@ This repository contains a comprehensive **Blinkit Analytics Dashboard** built u
 - **Outlet Demographics**: Visualizations for Outlet Size distributions and Outlet Location (Tier 1, Tier 2, Tier 3) performance.
 - **Detailed Tabular View**: Granular data table breaking down metrics by specific Outlet Types (Supermarket Type1, Grocery Store, etc.).
 
+## 📈 Visuals Explained
+The dashboard incorporates a variety of charts and visualizations to present data effectively:
+1. **KPI Cards (Top):** Display high-level aggregates including Total Sales, Average Rating, Total Items, and Average Sales.
+2. **Interactive Slicers (Left Panel):** Allows users to filter the entire dashboard by Outlet Location Type, Outlet Size, and Item Type.
+3. **Donut Charts:**
+   - **Fat Content:** Illustrates the proportion of sales/items between Low Fat and Regular products.
+   - **Outlet Size:** Shows the distribution across Medium, Small, and High outlet sizes.
+4. **Horizontal Bar Charts:**
+   - **Item Type:** Ranks the sales or item counts of different product categories (e.g., Fruits and Vegetables, Snacks, Household).
+   - **Outlet Location:** Compares performance across Tier 1, Tier 2, and Tier 3 cities.
+5. **Stacked Bar Chart:** 
+   - **Fat by Outlet:** A comparative view of Low Fat vs. Regular sales segmented by Outlet Tier locations.
+6. **Area/Line Chart:** 
+   - **Outlet Establishment:** Tracks the historical trend of metrics based on the year the outlets were established (from 2012 to 2022).
+7. **Matrix/Table:** 
+   - **Outlet Type Breakdown:** A comprehensive grid displaying various metrics (Sales, Items, Avg Sales, Rating, Visibility) categorized by specific outlet formats (Supermarkets vs. Grocery Stores).
+
 ## 📊 Dashboard Previews
 
 ### 1. Overall Dashboard View
